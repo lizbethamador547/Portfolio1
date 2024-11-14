@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    background-color: rgb(145, 188, 243);
+    color: white;
+}
+button {
+    border-radius: 50px;
+    color: rgb(22, 48, 196);
+    background-color: white;
+    font-weight: bold;
+}
+
+.myPortfolio {
+    border-radius: 50px;
+    color: rgb(22, 48, 196);
+    background-color: white;
+    font-weight: bold;
+
+}
